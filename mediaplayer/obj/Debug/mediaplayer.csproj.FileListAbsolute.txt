@@ -1,0 +1,14 @@
+c:\users\asus\documents\visual studio 2015\Projects\mediaplayer\mediaplayer\bin\Debug\mediaplayer.exe.config
+c:\users\asus\documents\visual studio 2015\Projects\mediaplayer\mediaplayer\bin\Debug\mediaplayer.exe
+c:\users\asus\documents\visual studio 2015\Projects\mediaplayer\mediaplayer\bin\Debug\mediaplayer.pdb
+c:\users\asus\documents\visual studio 2015\Projects\mediaplayer\mediaplayer\bin\Debug\Interop.WMPLib.dll
+c:\users\asus\documents\visual studio 2015\Projects\mediaplayer\mediaplayer\bin\Debug\AxInterop.WMPLib.dll
+c:\users\asus\documents\visual studio 2015\Projects\mediaplayer\mediaplayer\obj\Debug\mediaplayer.csprojResolveAssemblyReference.cache
+c:\users\asus\documents\visual studio 2015\Projects\mediaplayer\mediaplayer\obj\Debug\Interop.WMPLib.dll
+c:\users\asus\documents\visual studio 2015\Projects\mediaplayer\mediaplayer\obj\Debug\AxInterop.WMPLib.dll
+c:\users\asus\documents\visual studio 2015\Projects\mediaplayer\mediaplayer\obj\Debug\mediaplayer.csproj.ResolveComReference.cache
+c:\users\asus\documents\visual studio 2015\Projects\mediaplayer\mediaplayer\obj\Debug\mediaplayer.Form1.resources
+c:\users\asus\documents\visual studio 2015\Projects\mediaplayer\mediaplayer\obj\Debug\mediaplayer.Properties.Resources.resources
+c:\users\asus\documents\visual studio 2015\Projects\mediaplayer\mediaplayer\obj\Debug\mediaplayer.csproj.GenerateResource.Cache
+c:\users\asus\documents\visual studio 2015\Projects\mediaplayer\mediaplayer\obj\Debug\mediaplayer.exe
+c:\users\asus\documents\visual studio 2015\Projects\mediaplayer\mediaplayer\obj\Debug\mediaplayer.pdb
